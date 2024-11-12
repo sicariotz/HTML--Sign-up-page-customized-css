@@ -54,6 +54,3 @@ If you'd like to contribute to this project, feel free to fork the repository an
 
 This project is open-source and available under the Hakuna Matata Tech.
 
----
-
-Let me know if you'd like to add or change anything!
